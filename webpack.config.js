@@ -1,7 +1,7 @@
 
 module.exports = {
 
-  entry : [ './src/appProps.js'],
+  entry : [ './src/card/appCard.js'],
   output : {
     path : __dirname,
     filename : "bundle.js"
